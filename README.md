@@ -1,5 +1,7 @@
 # discord-bot-go
 
+![GitHub Repo stars](https://img.shields.io/github/stars/saolghra/discord-bot-go?style=for-the-badge)
+
 This is a Discord bot written in Golang that scrapes Reddit for random memes.
 
 ## Features
